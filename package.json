@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "bootstrap-select-v4": "^1.12.4",
-    "jquery-validation": "^1.18.0",
+    "jquery-validation": "^1.19.5",
     "npm": "^6.4.1",
     "popper.js": "^1.12.9"
   }
